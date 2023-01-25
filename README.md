@@ -9,3 +9,5 @@ We hope this work can be an asset for grounding applications of topic modelling 
 }
 
 \textbf{Keywords:} Latent Dirichlet Allocation (LDA); Topic Modelling; Coronavirus; Pandemics; Natural Language Understanding
+
+More resources and meta-data to be downloaded at \url{https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing}
