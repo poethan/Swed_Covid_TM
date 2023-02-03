@@ -11,3 +11,24 @@ We hope this work can be an asset for grounding applications of topic modelling 
 \textbf{Keywords:} Latent Dirichlet Allocation (LDA); Topic Modelling; Coronavirus; Pandemics; Natural Language Understanding
 
 More resources and meta-data on this project to be downloaded at \url{https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing}
+
+# Reference
+
+@misc{https://doi.org/10.48550/arxiv.2301.03029,
+  doi = {10.48550/ARXIV.2301.03029},
+  
+  url = {https://arxiv.org/abs/2301.03029},
+  
+  author = {Griciūtė, Bernadeta and Han, Lifeng and Nenadic, Goran},
+  
+  keywords = {Computation and Language (cs.CL), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+}
+
