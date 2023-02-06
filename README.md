@@ -32,3 +32,7 @@ More resources and meta-data on this project to be downloaded at \url{https://dr
   copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
 }
 
+# Acknowledgement
+Softwares: 
+https://github.com/MaartenGr/BERTopic 
+https://radimrehurek.com/gensim/models/ldamodel.html 
