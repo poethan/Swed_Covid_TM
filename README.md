@@ -19,7 +19,7 @@ More resources and meta-data on this project to be downloaded at \url{https://dr
   
   url = {https://arxiv.org/abs/2301.03029},
   
-  author = {Griciūtė, Bernadeta and Han, Lifeng and Nenadic, Goran},
+  author = {Griciūtė, Bernadeta and Han, Lifeng and Han, Li and Nenadic, Goran},
   
   keywords = {Computation and Language (cs.CL), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
   
