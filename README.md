@@ -1,5 +1,7 @@
 # Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method
 
+# NEW gitpage of this project: https://github.com/HECTA-UoM/Swed_Covid_TM 
+
 \begin{abstract}
 
 Topic Modelling (TM) is from the research branches of natural language understanding (NLU) and natural language processing (NLP) that is to facilitate insightful analysis from large documents and datasets, such as a summarisation of main topics and the topic changes. This kind of discovery is getting more popular in real-life applications due to its impact on big data analytics. 
