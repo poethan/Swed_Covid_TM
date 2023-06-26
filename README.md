@@ -1,6 +1,6 @@
 # Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method
 
-# NEW gitpage of this project: https://github.com/HECTA-UoM/Swed_Covid_TM 
+# NEW gitpage of this project: https://github.com/HECTA-UoM/Swed_Covid_TM HECTA(healthcare text analytics) group in UoM(Uni Manchester)
 
 \begin{abstract}
 
